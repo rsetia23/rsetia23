@@ -1,5 +1,6 @@
-# Rahul Setia
+# 🖥️ Rahul Setia
 
+**'Student At Northeastern University Majoring in Computer Science'**
 <!--
 **rsetia23/rsetia23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
