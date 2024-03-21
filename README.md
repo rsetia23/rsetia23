@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rahulsetia2005@gmail.com**
 
-- ⚡ Fun fact **Pizza is the best food.**
+- ⚡ Fun fact **Australia is wider than the moon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
