@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Setia</h1>
 <h3 align="center">Northeastern Student Majoring in Computer Science</h3>
 
-- 👨‍💻 All of my projects are available at [https://rahulsetia.me/](url)
+- 👨‍💻 All of my projects are available at [https://rahulsetia.me/](https://rahulsetia.me/)
 
 - 💬 Ask me about **java, python, javascript**
 
