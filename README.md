@@ -5,9 +5,11 @@
 
 - 💬 Ask me about **java, python, javascript**
 
-- 📫 How to reach me **rahulsetia2005@gmail.com**
+- 📫 How to reach me **setia.ra@northeastern.edu**
 
 - ⚡ Fun fact **Australia is wider than the moon.**
+
+- Code is available upon request for the Stocks repo. [https://github.com/rsetia23/Stocks](https://github.com/rsetia23/Stocks)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
