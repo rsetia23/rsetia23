@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rahul Setia</h1>
-<h3 align="center">Northeastern Student Majoring in Computer Science</h3>
+<h3 align="center">🚀 Software Developer | Pickleball Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://rahulsetia.me/](https://rahulsetia.me/)
+<p align="center">
+  🎓 <b>Computer Science Student at Northeastern University</b> <br>
+  📍 Boston, MA | 📧 <a href="mailto:setia.ra@northeastern.edu">setia.ra@northeastern.edu</a> <br>
+  🌎 <b>Check out my work at</b> <a href="https://rahulsetia.me">rahulsetia.me</a>
+</p>
 
-- 💬 Ask me about **java, python, javascript**
+---
 
-- 📫 How to reach me **setia.ra@northeastern.edu**
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/rahulsetia0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/rsetia23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-- ⚡ Fun fact **Australia is wider than the moon.**
-
-- Code is available upon request for the Stocks repo. [https://github.com/rsetia23/Stocks](https://github.com/rsetia23/Stocks)
-
-
-## Connect with me 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsetia0/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=html5&logoColor=white)](https://rahulsetia.me)
+---
 
 ## 🛠 Tech Stack
 
@@ -46,13 +47,29 @@
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
+
+## 🚀 Projects  
+
+### 📈 Stock Simulator  
+- Developed a **Java-based stock market simulator** using **OOP & MVC architecture**  
+- Integrated **Alpha Vantage API** to process real-time stock data  
+- Implemented optimized CSV parsing for **10-year historical data**
+- Code available upon request*
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rsetia23/Stocks)
+
+### 🌎 Portfolio Website  
+- Built a **responsive portfolio** showcasing my projects & achievements  
+- Integrated **dark mode toggle, smooth scrolling**, and **dynamic content loading**  
+- Configured **custom domain, DNS management, and SSL certificate**  
+
+[![Website](https://img.shields.io/badge/View%20Website-000000?style=for-the-badge&logo=html5&logoColor=white)](https://rahulsetia.me)
+
+---
 
 ## 🎯 Interests  
 📌 Robotics, AI, and Data Science  
 📌 Photography, Pickleball, and Badminton  
 📌 Table Tennis, Cooking, and Hiking  
 📌 Stock Market & Investing  
-
-
-
-
